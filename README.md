@@ -38,5 +38,5 @@ I am a passionate CS student based in Italy, focused on building a solid foundat
 
 ### 📫 Reach Me
 - 💼 **LinkedIn:** [linkedin.com/in/riccardo-mazzurana](https://linkedin.com/in/riccardo-mazzurana)
-- 📧 **Email:** [riccardo@mxzzu.it]
+- 📧 **Email:** riccardo@mxzzu.it
 - 📍 **Location:** Verona, Italy 🇮🇹
