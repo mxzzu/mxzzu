@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Riccardo! 👋
 
 ### 🎓 Computer Science Student @ University of Verona (UNIVR)
 
@@ -8,13 +8,13 @@ I am a passionate CS student based in Italy, focused on building a solid foundat
 
 ### 🔭 Currently Working On
 - 🎓 Pursuing my Bachelor's degree in **Computer Science**.
-- 🛠️ Developing **[Project Name/University Labs]**, a project focused on **[Brief Tech/Goal]**.
-- 📖 Deepening my knowledge in **[e.g., Data Structures, Operating Systems, or Networking]**.
+- 🛠️ Developing **My Portfolio**.
+- 📖 Deepening my knowledge in **Data Structures, Operating Systems, and Networking**.
 
 ### 🌱 My Learning Journey
-- 🏗️ Currently mastering: **[e.g., C, Java, or Python]**.
+- 🏗️ Currently mastering: **C, Java, and Typescript**.
 - 🐧 Exploring the world of **Linux** and shell scripting.
-- 🧪 Interested in **[e.g., Cybersecurity, AI, or Web Dev]**.
+- 🧪 Interested in **Cybersecurity, AI, and Web Dev**.
 
 ---
 
@@ -31,17 +31,12 @@ I am a passionate CS student based in Italy, focused on building a solid foundat
 ---
 
 ### 📊 GitHub Activity
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mxzzu&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxzzu&layout=compact&theme=tokyonight)
 
 ---
 
 ### 📫 Reach Me
-- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 📧 **Email:** [your.email@studenti.univr.it]
+- 💼 **LinkedIn:** [linkedin.com/in/riccardo-mazzurana](https://linkedin.com/in/riccardo-mazzurana)
+- 📧 **Email:** [riccardo@mxzzu.it]
 - 📍 **Location:** Verona, Italy 🇮🇹
-
----
-
-### ⚡ Fun Fact
-When I'm not debugging code, I'm likely exploring the streets of Verona or trying to explain to my non-tech friends that "Python" isn't just a snake. 🐍
